@@ -22,7 +22,7 @@ $ git clone https://github.com/Verdant31/SorteDoDia.git
 
 ```
 # Access the application folder
-$ cd Monitoria-Dashboard
+$ cd SorteDoDia
 
 # Open Android Studio (Or other IDE)
 $ Build and run the app
